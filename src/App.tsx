@@ -396,7 +396,7 @@ export default function App() {
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Dossiê Tributário Simples Apuração RTC</title>
+  <title>Dossiê Tributário Analista de IBS/CBS</title>
   <style>
     body {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -467,7 +467,7 @@ export default function App() {
 <body>
   <div class="header">
     <div>
-      ${logoBase64 ? `<img src="${logoBase64}" alt="Logo" style="max-height:70px;">` : `<div class="brand-name">Simples Apuração RTC</div>`}
+      ${logoBase64 ? `<img src="${logoBase64}" alt="Logo" style="max-height:70px;">` : `<div class="brand-name">Analista de IBS/CBS</div>`}
     </div>
     <div class="doc-meta">
       <strong>Preparado por:</strong> ${preparedBy}<br>
@@ -491,7 +491,7 @@ export default function App() {
   </div>
 
   <div class="footer">
-    Relatório emitido pela Inteligência Artificial do Simples Apuração RTC sob conformidade da Lei Complementar 214/2025.
+    Relatório emitido pela Inteligência Artificial do Analista de IBS/CBS sob conformidade da Lei Complementar 214/2025.
   </div>
 </body>
 </html>
@@ -522,7 +522,7 @@ export default function App() {
               TRANSITION SECURITY MODULE v3
             </div>
             <h1 className="text-2xl font-bold tracking-tight text-white mb-2">
-              Simples Apuração <span className="text-cyan-400 font-extrabold uppercase">RTC</span>
+              Analista de <span className="text-cyan-400 font-extrabold uppercase">IBS/CBS</span>
             </h1>
             <p className="text-gray-400 text-sm">
               Análise estratégica e apuração tributária de IBS/CBS focado na Reforma Tributária LC 214/2025
@@ -616,7 +616,7 @@ export default function App() {
                 RTC
               </div>
               <div>
-                <div role="heading" aria-level={2} className="text-white text-sm font-bold tracking-tight">Simples Apuração</div>
+                <div role="heading" aria-level={2} className="text-white text-sm font-bold tracking-tight">Analista de IBS/CBS</div>
                 <div className="text-[10px] text-cyan-400 font-mono tracking-wider font-semibold uppercase">Reforma Tributária</div>
               </div>
             </div>
