@@ -808,7 +808,7 @@ export default function App() {
             {logoBase64 ? (
               <img src={logoBase64} alt="Company Logo" className="max-h-8 object-contain" />
             ) : (
-              <h2 className="text-base font-bold text-white tracking-wide uppercase">SIMPLES APURAÇÃO RTC</h2>
+              <h2 className="text-base font-bold text-white tracking-wide uppercase">ANALISTA DE IBS/CBS</h2>
             )}
           </div>
 
@@ -1662,7 +1662,7 @@ export default function App() {
                           {logoBase64 ? (
                             <img src={logoBase64} alt="Company Logo" className="max-h-12 object-contain" />
                           ) : (
-                            <h3 className="text-white text-lg font-bold tracking-tight print:text-black">SIMPLES APURAÇÃO RTC</h3>
+                            <h3 className="text-white text-lg font-bold tracking-tight print:text-black">ANALISTA DE IBS/CBS</h3>
                           )}
                         </div>
                         <div className="text-right text-[10px] font-mono text-gray-500 print:text-black/50">
