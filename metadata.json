@@ -1,0 +1,6 @@
+{
+  "name": "Simples Apuração RTC",
+  "description": "Ferramenta de apuração de créditos, débitos e impacto competitivo de IBS/CBS sob a Reforma Tributária (LC 214/2025) para empresas RPA e do Simples Nacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
